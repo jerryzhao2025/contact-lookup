@@ -1,4 +1,51 @@
-lastName,address,email
-Smith,"123 Main St","smith@example.com"
-Jones,"456 Oak Ave","jones@sample.org"
-Miller,"789 Pine Ln","miller@data.net"
+"Individual ID","First Name","Last Name",Email,"Preferred Phone"
+125,Zachary,Cheng,cheng.zac@gmail.com,"(925) 330-5256"
+694,Zachary,Cheung,zachc8113@gmail.com,
+519,Zaihuan,Feng,,
+793,Zhengyu,Huang,,
+791,Zhenhui,Huang,zh20210103@gmail.com,"(925) 822-6886"
+522,Zheng,Liu,,
+700,Derek,Ning,nzl1025@gmail.com,"(408) 508-8366"
+931,"Zheng Chao",Wang,,
+510,Yan,Zeng,,
+1179,Halei,Zhai,zhaihalei@gmail.com,"(415) 988-2225"
+977,Chunyu,Zhang,,
+745,"Grace Li",Zhang,,"(415) 988-2967"
+744,Henry,Zhang,henry.zhang.sf@gmail.com,
+678,Jing,Zhang,JZhang@ccgchome.org,"(669) 216-2442"
+743,Katherine,Zhang,katherine.z.32958@gmail.com,
+746,Kimberly,Zhang,kimberlyzhang15098@gmail.com,"(415) 943-8988"
+1183,Lisi,Zhang,lkzhanglisi@gmail.com,"(510) 229-9381"
+827,Richard,Zhang,,"(415) 919-7559"
+1253,Sien,Zhang,lyrazhang0@gmail.com,"(925) 278-8745"
+437,Tao,Zhang,,
+155,Daniel,Zhao,dzhao7656@gmail.com,"(925) 326-5452"
+153,Grace,Zhao,ggeng27@gmail.com,
+4,Jerry,Zhao,gzhao@ccgchome.org,"(925) 878-5177"
+309,Lihong,Zhao,lihong.zhao01@gmail.com,"(925) 899-2885"
+156,Lynne,Zhao,lynnezhao2468@gmail.com,"(925) 326-5452"
+680,Teng,Zhao,ztcmmster@gmail.com,
+681,Trent,Zhao,zhao.trent@gmail.com,
+1182,Yu,Zhen,Yunice4shfe@hotmail.com,"(925) 378-8150"
+413,Amy,Zheng,,
+661,Coco,Zheng,cocozheng0112@gmail.com,"(925) 490-6181"
+686,Frank,Zheng,illbefrank@gmail.com,
+776,Hui,Zheng,,
+816,Maocai,Zheng,,
+685,Melissa,Zheng,missmelissa922@gmail.com,
+360,Peishu,Zheng,,
+414,Peter,Zheng,,
+662,Rock,Zheng,,"(925) 235-9554"
+412,Sijie,Zheng,,
+361,"Xialing Lu",Zheng,,
+530,Min,Zhou,,
+1158,Xianmin,Zhou,Zhouxm@hotmail.com,"(925) 289-6054"
+940,Xiaoqi,Zhou,,
+817,Sharon,zhu,xiaoanzhu2003@hotmail.com,
+952,Xiaoan,Zhu,,
+941,"E Lin Xiao Feng",Zhuo,,
+272,Ivan,Zou,,
+687,Jason,Zou,zouj878@gmail.com,"(925) 765-5517"
+270,Kai,Zou,kaizou666@gmail.com,"(925) 510-3270"
+269,"Xin Ge",Zou,star89ge@gmail.com,"(925) 586-4571"
+1157,Timothy,Zuo,,
