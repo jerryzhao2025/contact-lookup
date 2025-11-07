@@ -66,7 +66,7 @@ function searchAndDisplay() {
             const card = document.createElement('div');
             card.className = 'contact-card';
             card.innerHTML = `
-                <h2><strong>First Name:</strong> ${contact.firstName}</h2>
+                <p><strong>First Name:</strong> ${contact.firstName}</p>
                 <p><strong>Last Name:</strong> ${contact.lastName}</p>
                 <p><strong>Email:</strong> ${contact.email}</p>
                 <p><strong>Preferred Phone:</strong> ${contact.preferredphone}</p>
