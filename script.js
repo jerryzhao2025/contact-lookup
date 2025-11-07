@@ -67,7 +67,7 @@ function searchAndDisplay() {
             card.className = 'contact-card';
             card.innerHTML = `
                 <h2>${contact.lastName}</h2>
-                <p><strong>Name:</strong> ${contact.firstName} ${contact.lastName}</p>
+                <p><strong>Name:</strong> ${contact.firstName}</p>
                 <p><strong>Preferred Phone:</strong> ${contact.preferredphone}</p>
                 <p><strong>Email:</strong> ${contact.email}</p>
             `;
